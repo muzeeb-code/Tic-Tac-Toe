@@ -8,7 +8,7 @@ This version includes score tracking, turn indication, draw detection, winning a
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game] (https://muzeeb-code.github.io/Tic-Tac-Toe/).
+👉 [Click here to play the game](https://muzeeb-code.github.io/Tic-Tac-Toe/).
 
 
 ---
