@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Unique Tic Tac Toe</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="msg-container hide">
+    <p class="msg">Winner</p>
+    <button class="new-btn">New Game</button>
+  </div>
+
+  <main>
+    <h1>Tic Tac Toe</h1>
+
+    <div class="toggle-container">
+      <label class="switch">
+        <input type="checkbox" id="theme-toggle" />
+        <span class="slider round"></span>
+      </label>
+      <p>Dark Mode</p>
+    </div>
+
+    <div class="score-board">
+      <p>Player X: <span id="score-x">0</span></p>
+      <p>Player O: <span id="score-o">0</span></p>
+    </div>
+
+    <div class="player-info">
+      <p><span id="turn-indicator">Player O's Turn</span></p>
+    </div>
+
+    <div class="container">
+      <div class="game">
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+      </div>
+    </div>
+
+    <button class="reset-btn">Reset Game</button>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
