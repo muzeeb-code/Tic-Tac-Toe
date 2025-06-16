@@ -6,6 +6,13 @@ This version includes score tracking, turn indication, draw detection, winning a
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to play the game](https://muzeeb-code.github.io/tic-tac-toe/)  
+
+
+---
+
 ## ✨ Features
 
 ✅ Two-player support (X vs O)  
@@ -55,10 +62,6 @@ This project teaches:
 - Game logic handling (win/draw states)
 - CSS animations and theming
 - Local UI state management (without frameworks)
-
----
-🔗 **Live Demo**:
-(https://your-muzeeb-code.github.io/tic-tac-toe/)
 
 ---
 
